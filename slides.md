@@ -46,7 +46,7 @@ themeConfig:
 
   code-color: var(--slidev-theme-code-color)
   code-font-size: 1.1em
-background: ./images/cursor.png
+background: ./images/gradient-hero-prerender.avif
 # some information about your slides (markdown enabled)
 title:  Coding with Cursor | Tal Moskovich
 info: |
@@ -55,7 +55,7 @@ info: |
 
   Learn more at [cursor.com](https://cursor.com)
 # apply unocss classes to the current slide
-class: m-5 w-full
+class: w-full
 # https://sli.dev/features/drawing
 drawings:
   persist: false
@@ -80,15 +80,15 @@ src: ./pages/aboutme.md
 ---
 
 ---
-src: ./pages/meet-tanstack.md
+src: ./pages/coding-with-ai.md
+---
+
+---
+src: ./pages/meet-cursor.md
 ---
 
 ---
 src: ./pages/demo.md
----
-
----
-src: ./pages/data-fetching.md
 ---
 
 ---
