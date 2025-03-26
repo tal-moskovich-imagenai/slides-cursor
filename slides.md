@@ -46,15 +46,14 @@ themeConfig:
 
   code-color: var(--slidev-theme-code-color)
   code-font-size: 1.1em
-background: ./images/tanstack.webp
+background: ./images/cursor.png
 # some information about your slides (markdown enabled)
-title: Tanstack Start - A Fresh Take on React
+title:  Coding with Cursor | Tal Moskovich
 info: |
-  ## Tanstack Start
-  A Fresh Take on React - React IL meetup 02/2025
+  ## Coding with Cursor
   [@talmosko](https://github.com/talmosko)
 
-  Learn more at [Tanstack.com](https://tanstack.com)
+  Learn more at [cursor.com](https://cursor.com)
 # apply unocss classes to the current slide
 class: m-5 w-full
 # https://sli.dev/features/drawing
@@ -66,11 +65,10 @@ transition: slide-left
 mdc: true
 ---
 
-# TanStack Start: 
-# A Fresh Take on React
+# Coding with Cursor
 
 Tal Moskovich <br/>
-React IL 02/2025
+Imagen 03/2025
 
 
 <!--
