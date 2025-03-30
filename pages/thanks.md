@@ -1,7 +1,7 @@
 ---
-layout: two-cols
+# layout: center
 ---
-<div class="flex flex-col items-center justify-center gap-2 h-full pb-20">
+<!-- <div class="flex flex-col items-center justify-center gap-2 h-full pb-20">
 
 <a href="https://github.com/talmosko/tanstack-start">Demo + Slides</a>
 
@@ -9,7 +9,7 @@ layout: two-cols
 
 </div>
 
-::right::
+::right:: -->
 
 <div class="mt-5 flex flex-col items-center">
 
